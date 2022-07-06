@@ -1,0 +1,84 @@
+/* STYLE SECTIONING TAGS */
+body {
+  background-color: lightcyan; 
+  font-family: 'Times New Roman', Times,serif;
+  text-align: left; 
+  color: #003046
+  
+}
+
+/* STYLE TEXT */
+header {
+  text-align: center; 
+  font-family: 'Allura',cursive;
+  font-size: 1.4em; 
+}
+
+h1 {
+  color: navy;
+  padding-top: 1em; 
+  padding-bottom: 1em; 
+}
+
+p {
+  color: #003046
+  border: 3px solid green
+  font-size: 1.2em; 
+  padding-top: 1em; 
+  padding-bottom; 1em; 
+}
+
+/* STYLE IMAGES */
+img {
+  max-width: 30%; 
+  border-radius: 50%; 
+  border: 3px solid white
+  margin-bottom: 2em; 
+}
+
+main {
+  margin-top: 0; 
+  margin-bottom: 0; 
+  margin-right: 20%; 
+  margin-left: 20%; 
+  
+}
+/* STYLE NAV BAR */
+.cool {
+  color: black
+}
+ul {
+  list-style-type: none; 
+  background-color: lightpink; 
+  overflow: hidden; 
+  padding: 12px; 
+  width: 50%
+  float: left; 
+  text-align: center; 
+  
+}
+ul {
+  list-style-type: none; 
+  background-color: lightpink; 
+  overflow: hidden; 
+  padding: 12px; 
+  width: 50%
+  float: left; 
+  text-align: center; 
+}
+li {
+  display: inline; 
+}
+
+li a {
+  text-decoration: none; 
+  font-size: 1.3em; 
+  padding: 1em; 
+}
+
+li a: hover {
+  background-color: lightslategray
+}
+
+
+
